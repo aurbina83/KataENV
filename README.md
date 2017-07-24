@@ -1,5 +1,5 @@
 # KataENV
-Environment for Katas using ES6 and Mocha Chai
+Environment for Katas using ES6 and Mocha Chaizzzz
 
 ### Automation
 Open .bash_profile in your editor
